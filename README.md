@@ -6,7 +6,7 @@
 
 ## 🚀 What I Do
 ✅ Develop scalable backend services using **Python (Django, Flask, FastAPI)**
-✅ Build and maintain automation tools using **Golang and Python**    
+ ✅ Build and maintain automation tools using **Golang and Python**    
 ✅ Automate infrastructure with **Terraform, Ansible, AWS, and VMware APIs**  
 ✅ Design CI/CD pipelines using **Jenkins, GitHub Actions, and Docker/Kubernetes**  
 ✅ Create cloud-native solutions on **AWS (Lambda, EC2, RDS, S3, IAM, CloudWatch)**  
